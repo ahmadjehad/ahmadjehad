@@ -5,8 +5,7 @@ I'm a software developer and open source contributor also a Cat person In Love w
 #### A bit more about me:
 works on mobile apps with Flutter, Constantly exploring and experimenting with new technology , updated with all related tech news. 
 - Nickname: Ace.
--  Fun fact: I love to Cook and of course never coded without my cup of coffee .
--  I’m currently learning ... Flutter / REST API [NodeJs/Python]
+-  I’m currently learning Flutter
 
 ### 📫 Get in touch:
 
