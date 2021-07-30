@@ -9,5 +9,5 @@ works on mobile apps with Flutter, Constantly exploring and experimenting with n
 
 ### 📫 Get in touch:
 
-<a href="mailto:ahmadj.abuyahya@gmail.com"><img src="https://img-premium.flaticon.com/png/512/732/732200.png?token=exp=1621157333~hmac=32fcf439be19ff6b82fa98e44e3a55b4" width="36" height="36"/>
-  <a href="https://www.linkedin.com/in/ahmad-j-abu-yahya/"><img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621157470~hmac=bac1ef94ec22cf939e8098ae4e852c9c" width="36" height="36"/>
+<a href="mailto:ahmadj.abuyahya@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.net%2Fwp-content%2Fuploads%2F2020%2F10%2Fgmail-logo.png&f=1&nofb=1" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/ahmad-j-abu-yahya/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.keesingtechnologies.com%2Fwp-content%2Fuploads%2F2018%2F07%2FLinkedin-Icon.png&f=1&nofb=1" width="40" height="40"/>
